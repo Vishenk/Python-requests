@@ -1,6 +1,3 @@
-# Python-requests
-A code using python requets lybrary
-
 # Задание:
 1) Используя цикл for:
     Скачать 100 вакансий ( регион-Москва, название вакансии - Аналитик), поля name и salary в два отдельных списка (list)
